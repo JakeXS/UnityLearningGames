@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ee75c2b1f1291540bc8c34dcf973aa1, type: 3}
+  m_Name: New Board Data
+  m_EditorClassIdentifier: 
+  timeInSec: 0
+  col: 10
+  row: 10
+  Board:
+  - Size: 10
+    Row:
+    - E
+    - B
+    - D
+    - G
+    - J
+    - M
+    - O
+    - Q
+    - H
+    - X
+  - Size: 10
+    Row:
+    - H
+    - J
+    - K
+    - V
+    - A
+    - W
+    - V
+    - V
+    - Q
+    - B
+  - Size: 10
+    Row:
+    - P
+    - O
+    - J
+    - F
+    - P
+    - F
+    - W
+    - J
+    - Y
+    - X
+  - Size: 10
+    Row:
+    - D
+    - O
+    - I
+    - Q
+    - Z
+    - G
+    - G
+    - C
+    - R
+    - X
+  - Size: 10
+    Row:
+    - F
+    - H
+    - Q
+    - I
+    - T
+    - O
+    - S
+    - Q
+    - A
+    - H
+  - Size: 10
+    Row:
+    - Y
+    - Q
+    - Z
+    - R
+    - K
+    - K
+    - P
+    - N
+    - J
+    - U
+  - Size: 10
+    Row:
+    - N
+    - E
+    - H
+    - V
+    - L
+    - F
+    - N
+    - S
+    - W
+    - B
+  - Size: 10
+    Row:
+    - R
+    - V
+    - I
+    - P
+    - G
+    - B
+    - Y
+    - R
+    - F
+    - I
+  - Size: 10
+    Row:
+    - B
+    - C
+    - E
+    - S
+    - F
+    - B
+    - U
+    - Q
+    - W
+    - K
+  - Size: 10
+    Row:
+    - V
+    - Q
+    - G
+    - X
+    - M
+    - P
+    - Q
+    - Z
+    - M
+    - E
+  SearchWords: []
